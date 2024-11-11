@@ -32,7 +32,7 @@ const Hero = () => {
         {/* Text Content */}
         <div className="text-[40px] sm:text-[80px] font-bold leading-tight flex justify-center items-center text-center">
           <div>
-            <p data-aos="zoom-in-up">Hi! I'm</p>
+            <p data-aos="zoom-in-up">Hi! I&apos;m</p>
             <p data-aos="zoom-in-up">Ramsha</p>
             <p data-aos="zoom-in-up">Fawad.</p>
           </div>
@@ -43,3 +43,4 @@ const Hero = () => {
 };
 
 export default Hero;
+
