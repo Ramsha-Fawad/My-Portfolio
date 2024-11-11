@@ -5,7 +5,6 @@ const Hero = () => {
   return (
     <div id="hero" className="min-h-screen relative pt-20">
       
-      {/* Fixed Navbar */}
       <div className="fixed top-0 left-0 w-full z-20">
         <Navbar />
       </div>
